@@ -1,0 +1,52 @@
+header {
+  text-transform: uppercase;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 12px;
+  background-color: #f7f7f7;
+}
+p,
+li {
+  font-family: sans-serif;
+  line-height: 1.4;
+}
+.upper {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: black;
+  font-size: 22px;
+}
+.free {
+  color: #444;
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.border {
+  border: 3.5px solid black;
+}
+.li-style {
+  list-style: square;
+  color: black;
+}
+a:link,
+a:visited {
+  color: black;
+}
+a:hover,
+a:active {
+  text-decoration: none;
+}
+.buton {
+  font-weight: bold;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: black;
+  cursor: pointer;
+}
+.buton:hover {
+  color: black;
+  background-color: #f7f7f7;
+  border: none;
+}
